@@ -1,0 +1,51 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore .env files
+.env
+
+# Ignore .DS_Store files (Mac)
+.DS_Store
+
+# Ignore .idea folder (JetBrains IDEs)
+.idea/
+# Ignore Python virtual environment
+venv/
+
+# Ignore pipenv virtual environment
+.pipenv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore coverage reports
+.coverage
+htmlcov/
+
+# Ignore logs
+*.log
+
+# Ignore local development settings
+.env
+
+# Ignore VSCode settings
+.vscode/
+
+__pycache__
